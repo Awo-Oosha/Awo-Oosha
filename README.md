@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awo-Oosha
-- 👀 I’m interested in ...Web Development, Web Apps Development, Mobile apps Development, AI/ML(someday).
-- 🌱 I’m currently learning ... Web apps Development, Web Developments and Mobile Apps Development
+- 👀 I’m interested in ..., Web Apps Development, Mobile apps Development, UX/UI designs, AI/ML(someday).
+- 🌱 I’m  Working on projects on ... Web apps Development, Mobile Apps Development, UX/UI designs
 - 💞️ I’m looking to collaborate on ...
 -  📫 How to reach me ... my Whatsapp (+2349067727745)
 
