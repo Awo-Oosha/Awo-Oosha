@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awo-Oosha
+- 👋 Hi, I’m Timileyin Olawale Okediya ( @Awo-Oosha )
 - 👀 I’m interested in ..., Web Apps Development, Mobile apps Development, UX/UI designs, Web3 development, AI/ML(someday).
 - 🌱 I’m  Working on projects on ... Web apps Development, Mobile Apps Development, UX/UI designs
 - 💞️ I’m looking to collaborate on ...
