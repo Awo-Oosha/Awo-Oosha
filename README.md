@@ -8,7 +8,6 @@ I'm a passionate developer who bridges the gap between beautiful design and robu
 ## 🔭 What I'm Building
 - **Web Applications** - Crafting responsive, performant web experiences
 - **Mobile Applications** - Building cross-platform mobile solutions
-- **UX/UI Design** - Designing intuitive interfaces and seamless user journeys
 
 ## 🌱 Currently Exploring
 - **Web3 Development** - Diving into decentralized applications and blockchain technology
