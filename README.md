@@ -1,6 +1,6 @@
 # Hi there, I'm Timileyin Olawale Okediya! 👋
 
-**Full-Stack Developer | UX/UI Designer | Tech Enthusiast**
+**Full-Stack Developer | Tech Enthusiast**
 
 ## 🚀 About Me
 I'm a passionate developer who bridges the gap between beautiful design and robust functionality. I love creating digital experiences that are not only visually appealing but also technically sound and user-centered.
